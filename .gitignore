@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Editor configs
+.vscode/
+.idea/
+*.swp
+
+# Render build cache
+render-build/
