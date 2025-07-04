@@ -8,7 +8,7 @@ const fileRoutes = require("./routes/fileRoutes");
 const searchRoutes = require("./routes/searchRoutes");
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT;
 
 app.use(express.json());
 
